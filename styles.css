@@ -1,0 +1,12 @@
+#header { padding-bottom: 5px; text-align: center; background-color: #336699; color: #fff;}
+#footer { height: 30px; line-height: 30px; color: #fff;  text-align: center; border-top: 1px solid; margin-top: 20px; background-color: #336699;}
+.menu-item {display: inline-block; float: left; width: 100px; }
+#content {min-height: 400px; }
+.a-menu {color: #fff;}
+.a-menu:hover { color: #eee; }
+#item-desc {min-height: 200px; background-color: #f0f0f0; padding: 10px;  margin-bottom: 10px;}
+#outer-box {border: 1px solid;}
+.link{ color: blue;  cursor: pointer}
+.link:hover {text-decoration: underline}
+#banner { width: 100%; }
+#main { margin: 0; padding: 0;}
